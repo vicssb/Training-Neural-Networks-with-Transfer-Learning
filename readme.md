@@ -4,7 +4,6 @@
 <a href="./readme.md"> <img src="./img/LogoUK.png" alt="Logo UK" width="30"/></a><a href="./leiame.md"> <img src="./img/logoBrazil.png" alt="Logo Brasil" width="30"/> </a>
 </div>
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
-  
 </p> 
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
@@ -13,8 +12,6 @@
 # Training Neural Networks with Transfer Learning
 
 This project is based on the [Training Neural Networks with Transfer Learning](https://web.dio.me/lab/treinamento-de-redes-neurais-com-transfer-learning/learning/488fffcd-b516-4654-ba32-474459d07103) course.
-
-
 
 ## Overview
 
@@ -51,14 +48,18 @@ Transfer learning is a machine learning technique where a model developed for a 
     python train.py
     ```
 
+## Colab
+
+You can also run the project using Google Colab. Open the following notebook in Colab:
+[Transfer Learning Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
+
 ## Results
 
 After training, the model's performance will be evaluated, and the results will be displayed. You can visualize the training process and results using TensorBoard.
 
 ## Images
 
-!DIO
-!LogoMLS
+
 
 ## License
 
