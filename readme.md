@@ -6,10 +6,13 @@
   <H1><b> Victor Sérgio Silva Barros </b> </H1>
 </p> 
 
-<img src="./img/dio.png" alt="DIO Logo" width="200"/>
-<img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
-<img src="./img/Keras.png" alt="Keras Logo" width="200"/>
-<img src="./img/TensorFlow.png" alt="TensorFlow Logo" width="200"/>
+<div align="top" style="display: flex; justify-content: space-between;">
+  <img src="./img/dio.png" alt="DIO Logo" width="80"/>
+  <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="80"/>
+  <img src="./img/Keras.png" alt="Keras Logo" width="80"/>
+  <img src="./img/TensorFlow.png" alt="TensorFlow Logo" width="80"/>
+</div>
+  </div>
 
 # Training Neural Networks with Transfer Learning
 
@@ -53,14 +56,13 @@ Transfer learning is a machine learning technique where a model developed for a 
 ## Colab
 
 You can also run the project using Google Colab. Open the following notebook in Colab:
-[Transfer Learning Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/transfer-learning.ipynb)
+[Transfer Learning Notebook](https://github.com/vicssb/Training-Neural-Networks-with-Transfer-Learning/blob/main/notebooks/Transfer_Learning_cats_and_dogs.ipynb)
 
 ## Results
 
 After training, the model's performance will be evaluated, and the results will be displayed. You can visualize the training process and results using TensorBoard.
 
-## Images
-
+  <img src="./img/Accuracy - Loss.png" alt="Accuracy - Loss chat" width="200"/>
 
 
 ## License
