@@ -62,7 +62,7 @@ You can also run the project using Google Colab. Open the following notebook in 
 
 After training, the model's performance will be evaluated, and the results will be displayed. You can visualize the training process and results using TensorBoard.
 
-  <img src="./img/Accuracy - Loss.png" alt="Accuracy - Loss chat" width="200"/>
+  <img src="./img/Accuracy - Loss.png" alt="Accuracy - Loss chat" width="400"/>
 
 
 ## License
