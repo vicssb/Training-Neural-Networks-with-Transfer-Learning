@@ -8,6 +8,8 @@
 
 <img src="./img/dio.png" alt="DIO Logo" width="200"/>
 <img src="./img/artificial-intelligence.png" alt="Artificial Intelligence Logo" width="200"/>
+<img src="./img/Keras.png" alt="Keras Logo" width="200"/>
+<img src="./img/TensorFlow.png" alt="TensorFlow Logo" width="200"/>
 
 # Training Neural Networks with Transfer Learning
 
