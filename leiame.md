@@ -68,14 +68,14 @@ Após o treinamento, o desempenho do modelo será avaliado, e os resultados ser�
 
 Este projeto está licenciado sob a Licença MIT.
 
-## Versioning
+## Controle de versão
  
 1.0.0
  
  
-## Author
+## Autor
  
-* **Victor Sérgio Silva Barros**: 
+**Victor Sérgio Silva Barros**: 
 
 
 <p align="left">
